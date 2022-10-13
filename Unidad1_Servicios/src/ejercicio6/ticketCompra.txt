@@ -1,7 +1,0 @@
-Introduzca el código del productoIntroduzca el código del productoIntroduzca el precio del productoIntroduzca el cantidad del producto32 32.0 12 384.0Introduzca el código del productoIntroduzca el código del producto
-Introduzca el código del producto
-Introduzca el código del producto
-Introduzca el código del producto
-Introduzca el precio del producto
-Introduzca el cantidad del producto
-Codigo: 4 , precio: 6.0 , cantidad: 4 , total: 24.0
